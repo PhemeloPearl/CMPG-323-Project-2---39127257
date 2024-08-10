@@ -1,2 +1,2 @@
 # CMPG-323-Project-2---39127257
-I will be creating a CRUD RESTful API that will connect to a database storing basic telemetry data
+This repository, developed as part of the NWU Tech Trends project, comprises of a RESTful API designed to facilitate the storage and management of fundamental telemetry data. The API establishes a connection with a database, enabling the execution of essential CRUD operations on telemetry data. The accurate management of this data is vital for generating comprehensive reports, thereby empowering stakeholders to discern and analyze technological trends with precision.

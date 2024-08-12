@@ -1,6 +1,0 @@
-@CMPG_323_Project_2_39127257_HostAddress = http://localhost:5115
-
-GET {{CMPG_323_Project_2_39127257_HostAddress}}/weatherforecast/
-Accept: application/json
-
-###
